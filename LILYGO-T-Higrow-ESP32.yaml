@@ -116,4 +116,4 @@ packages:
   # Battery only works for 12 hours with deepsleep!
   bme280: !include common/bme280.yaml
   # deepsleep: !include common/deepsleep.yaml
-  battery: !include common/battery.yaml
+  # battery: !include common/battery.yaml
